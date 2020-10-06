@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ticket Hub</string>
+    <string name="txtTitle">Concert Ticket Hub</string>
+    <string name="prompt">Select Group</string>
+    <string name="description">Concert Image</string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="btnCost">Find The Cost</string>
+    <string-array name="txtGroup">
+        <item>Pop Music Festival</item>
+        <item>Jazz Music Festival</item>
+        <item>Country Music Festival</item>
+    </string-array>
+</resources>
